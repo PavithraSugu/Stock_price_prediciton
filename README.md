@@ -17,5 +17,6 @@ focal point for investors and analysts, capturing the daily closing price of MSF
 understanding the trends, fluctuations, and growth patterns of one of the world's leading technology companies. Researchers and market enthusiasts can employ this dataset to study Microsoft's stock price history, 
 conduct time series analysis, and develop predictive models that can aid in making informed investment decisions or gain insights into the company's financial performance over time.
 
+![image](https://github.com/PavithraSugu/Stock_price_prediciton/assets/138654898/b5ed5b98-3c1a-40de-b6b5-c9366ea48951)
 
 
