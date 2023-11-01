@@ -18,5 +18,11 @@ understanding the trends, fluctuations, and growth patterns of one of the world'
 conduct time series analysis, and develop predictive models that can aid in making informed investment decisions or gain insights into the company's financial performance over time.
 
 ![image](https://github.com/PavithraSugu/Stock_price_prediciton/assets/138654898/b5ed5b98-3c1a-40de-b6b5-c9366ea48951)
+![image](https://github.com/PavithraSugu/Stock_price_prediciton/assets/138654898/045c4c61-f122-4dcb-9282-f41c739653fc)
+![image](https://github.com/PavithraSugu/Stock_price_prediciton/assets/138654898/494ea102-3831-4615-9875-44a4d98c56da)
+![image](https://github.com/PavithraSugu/Stock_price_prediciton/assets/138654898/86871408-5658-4adf-88fa-d544263ce5a7)
+
+
+
 
 
